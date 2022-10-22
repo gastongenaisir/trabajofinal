@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Carne tradicional",
     "description": "Empanada de carne tradicional.",
-    "image": "../assets/img/carne.jpg",
+    "image": "./assets/img/carne.jpg",
     "price": 125,
     "stock": 60
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Carne a cuchillo",
     "description": "Empanada de carne cortada a cuchillo.",
-    "image": "../assets/img/carneCuchillo.jpg",
+    "image": "./assets/img/carneCuchillo.jpg",
     "price": 125,
     "stock": 60
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "title": "Jamon y Queso",
     "description": "Empanada de Jamón y Queso.",
-    "image": "../assets/img/jyq.jpg",
+    "image": "./assets/img/jyq.jpg",
     "price": 125,
     "stock": 60
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "title": "Pollo",
     "description": "Empanada de pollo.",
-    "image": "../assets/img/pollo.jpg",
+    "image": "./assets/img/pollo.jpg",
     "price": 125,
     "stock": 60
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "title": "Verdura",
     "description": "Empanada de acelga, salsa banca y queso",
-    "image": "../assets/img/verdura.jpg",
+    "image": "./assets/img/verdura.jpg",
     "price": 125,
     "stock": 60
   }

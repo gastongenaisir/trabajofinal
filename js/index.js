@@ -4,7 +4,7 @@ const comprar = document.getElementById("comprar");
 
 let carrito = [];
 
-fetch("../productos.json").then((response) => {
+fetch("./productos.json").then((response) => {
   response.json().then((data) => renderCards(data));
 });
 
